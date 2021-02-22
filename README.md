@@ -1,2 +1,1 @@
-# here-we-go
-beginner projects 
+beginner python projects 
